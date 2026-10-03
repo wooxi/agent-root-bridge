@@ -1,0 +1,6 @@
+id=agent_root_bridge
+name=智能体 Root 指令桥
+version=3.0
+versionCode=5
+author=wooxi
+description=通用 AI 智能体后台 Root 指令桥接模块。安全监听 control 目录，具备单例互斥锁、完整审计日志、防死锁保护与高危拦截。
